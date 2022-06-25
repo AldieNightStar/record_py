@@ -1,5 +1,10 @@
 # Record py
 
+## Install
+```shell
+pip install git+https://github.com/AldieNightStar/record_py.git
+```
+
 ## Usage
 ```python
 # Init namespace where to put data classes

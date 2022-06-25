@@ -7,6 +7,8 @@ pip install git+https://github.com/AldieNightStar/record_py.git
 
 ## Usage
 ```python
+from record import *
+
 # Init namespace where to put data classes
 record_init(globals(), locals())
 
